@@ -20,3 +20,11 @@ This project visualizes the global distribution of **Biosafety Level 3+ (BSL3+)*
 ## 🛠️ How It Works  
 - **Data**: IPCC reference regions (shapefile) + lab locations (CSV).  
 - **Tools**: `R` (tidyverse, sf, leaflet), RMarkdown.  
+
+📂 Data Sources
+Lab Locations: Compiled from public records.
+
+Climate Risks: IPCC WGI Reference Regions (v4).
+
+🤝 Contribute
+Found an error or want to expand? Open an issue or PR!
