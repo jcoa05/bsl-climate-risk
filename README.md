@@ -1,30 +1,21 @@
-# 🌍 Global BSL Labs & Climate Risks  
-*Mapping the distribution of high-containment laboratories and projected climate-related hazards*
+# 🌍 Global BSL labs and climate risks  
+Mapping the distribution of high-containment laboratories and projected climate-related hazards
 
 ## 🔍 Overview  
-This project visualizes the global distribution of **Biosafety Level 3+ (BSL3+)** and **BSL4** laboratories alongside IPCC-projected climate risks (e.g., floods, cyclones, sea-level rise). It answers:  
-*Where are high-containment labs located, and how might climate change impact their operational risks?*  
+Visualize the global distribution of **Biosafety Level 3+ (BSL3+)** and **BSL4** laboratories alongside IPCC-projected climate risks (e.g., floods, cyclones, sea-level rise). *Where are high-containment labs located, and how might climate change impact their operational risks?*  
 
 ## 📊 Key Outputs  
 1. **Static Maps**:  
-   - 7 thematic maps (e.g., river floods, tropical cyclones) showing labs overlaid on IPCC risk regions.  
-   - *Example:*  
+   - Seven maps (e.g., river floods, tropical cyclones) showing labs overlaid on IPCC risk regions.  
+   - Example:
      ![Heavy Precipitation Risk](figures/bslmap_heavyprecipitation.png)  
 
 2. **Interactive Map**:  
    - Explore labs and toggle climate risks [here](outputs/map.html).  
 
-3. **Lab Counts by Region**:  
-   - Summary table of labs per IPCC region ([labcounts.csv](data/processed/labcounts.csv)).  
-
 ## 🛠️ How It Works  
-- **Data**: IPCC reference regions (shapefile) + lab locations (CSV).  
-- **Tools**: `R` (tidyverse, sf, leaflet), RMarkdown.  
-
-📂 Data Sources
-Lab Locations: Compiled from public records.
-
-Climate Risks: IPCC WGI Reference Regions (v4).
+- **Data**: IPCC-projected climate risks + lab locations, all compiled from publicly-available information
+- **Tools**: `R` (sf, leaflet), RMarkdown 
 
 🤝 Contribute
-Found an error or want to expand? Open an issue or PR!
+Found an error or want to expand? Open an issue or PR.
