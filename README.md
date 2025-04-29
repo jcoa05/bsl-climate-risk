@@ -1,4 +1,6 @@
-# Global BSL labs and climate risks  
+# Global BSL labs and climate risks
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Mapping the distribution of high-containment laboratories and projected climate-related hazards
 
 ## Overview  
