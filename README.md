@@ -13,7 +13,7 @@ Visualize the global distribution of **Biosafety Level 3+ (BSL3+)** and **BSL4**
      ![Heavy Precipitation Risk](figures/bslmap_heavyprecipitation.png)  
 
 2. **Interactive Map**:  
-   - Explore labs and toggle climate risks [here](outputs/map.html).  
+   - Explore labs and toggle climate risks [here](https://jcoa05.github.io/bsl-climate-risk/).  
 
 ## How It Works  
 - **Data**: IPCC-projected climate risks + lab locations, all compiled from publicly-available information
