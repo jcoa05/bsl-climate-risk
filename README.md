@@ -21,3 +21,5 @@ Visualize the global distribution of **Biosafety Level 3+ (BSL3+)** and **BSL4**
 
 Contribute
 Found an error or want to expand? Open an issue or PR.
+
+This project was developed in collaboration with Ketan Thorat (BRIC-inStem, India) and Tanya Sarawagi (IISc, India).
